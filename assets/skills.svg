@@ -1,0 +1,31 @@
+<svg width="900" height="210" viewBox="0 0 900 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="panelBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#180914" />
+      <stop offset="100%" stop-color="#0d040a" />
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="896" height="206" rx="12" fill="url(#panelBg)" stroke="#5c193a" stroke-width="1.2" />
+  
+  <text x="25" y="32" fill="#ff4b8e" font-size="12" font-family="Courier, monospace">02 // TECH ARSENAL</text>
+  <text x="25" y="58" fill="#ffffff" font-size="18" font-weight="700" font-family="sans-serif">The tools I reach for.</text>
+
+  <!-- Languages -->
+  <rect x="25" y="75" width="265" height="110" rx="8" fill="#240b1c" stroke="#ff2a85" stroke-opacity="0.4" stroke-width="1" />
+  <text x="40" y="100" fill="#ff7da7" font-size="12" font-family="Courier, monospace">> LANGUAGES</text>
+  <text x="40" y="130" fill="#ffffff" font-size="15" font-weight="bold" font-family="sans-serif">Python • JavaScript • C++</text>
+  <text x="40" y="155" fill="#b08397" font-size="12" font-family="sans-serif">TypeScript • SQL • Java</text>
+
+  <!-- Frameworks -->
+  <rect x="315" y="75" width="265" height="110" rx="8" fill="#240b1c" stroke="#ff2a85" stroke-opacity="0.4" stroke-width="1" />
+  <text x="330" y="100" fill="#ff7da7" font-size="12" font-family="Courier, monospace">> FRAMEWORKS &amp; AI</text>
+  <text x="330" y="130" fill="#ffffff" font-size="15" font-weight="bold" font-family="sans-serif">Node.js • React • FastAPI</text>
+  <text x="330" y="155" fill="#b08397" font-size="12" font-family="sans-serif">PyTorch • LLMs • LangChain</text>
+
+  <!-- Cloud/Infra -->
+  <rect x="605" y="75" width="265" height="110" rx="8" fill="#240b1c" stroke="#ff2a85" stroke-opacity="0.4" stroke-width="1" />
+  <text x="620" y="100" fill="#ff7da7" font-size="12" font-family="Courier, monospace">> DATA &amp; INFRA</text>
+  <text x="620" y="130" fill="#ffffff" font-size="15" font-weight="bold" font-family="sans-serif">Docker • AWS • Git</text>
+  <text x="620" y="155" fill="#b08397" font-size="12" font-family="sans-serif">PostgreSQL • MongoDB • Redis</text>
+</svg>
